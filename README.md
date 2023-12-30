@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at : **[Portfolio](https://github.com/himanshucgithub/Data-Analysis-Portfolio.git)**
 
-- 📄 Know about my work :
+- 📄 Know about my work : **[Resume](https://drive.google.com/file/d/1KcL37ZrVxrUPCRpvPsGZF8NsT_RmCXCN/view?usp=sharing)**
 
 - 📫 How to reach me : **himanshucan10@gmail.com**
 
