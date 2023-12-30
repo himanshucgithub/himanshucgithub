@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **M.Sc Indusrial Mathematics with Computer Applications (IMCA)**
 
-- 👨‍💻 All of my projects are available at : 
+- 👨‍💻 All of my projects are available at : **[Portfolio](https://github.com/himanshucgithub/Data-Analysis-Portfolio.git)**
 
 - 📄 Know about my work :
 
