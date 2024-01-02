@@ -5,13 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshucgithub&label=Profile%20views&color=0e75b6&style=flat" alt=" himanshucgithub " /> </p>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/office-of-himanshu-chaudhari/)
-
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:himanshucan10@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/hejazizo)](https://twitter.com/scarfaced_11)
-
-
-- 🌱 I’m currently learning **M.Sc Indusrial Mathematics with Computer Applications (IMCA)**
+- 🌱 I’m currently learning **Excel, SQL, PowerBi, Statistics, Python.**
 
 - 👨‍💻 All of my projects are available at : **[Portfolio](https://github.com/himanshucgithub/Data-Analysis-Portfolio.git)**
 
@@ -19,7 +13,7 @@
 
 - 📫 How to reach me : **himanshucan10@gmail.com**
 
-### 🖥 Skills
+### 🖥 Skills :
 
 - Excel ( Advanced )
 - SQL
@@ -42,7 +36,7 @@
 <a href="https://twitter.com/scarfaced_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scarfaced_11" height="30" width="40" /></a>
 </p>
 
-### ⚙️ Tech Stack
+### ⚙️ Languages & Tools :
 
 ![Bootstrap](https://img.shields.io/badge/-Excel-05122A?style=flat-square&logo=Excel&color=bb8989) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=bb8989) ![Bootstrap](https://img.shields.io/badge/-Power%20Bi-05122A?style=flat-square&logo=Power-Bi&color=bb8989) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=bb8989) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=bb8989) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=bb8989) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=bb8989) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=bb8989) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=bb8989)
 
