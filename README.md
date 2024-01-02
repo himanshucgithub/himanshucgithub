@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Yuvraj Chaudhari</h1>
 <h3 align="center">Passionate about Data </h3>
 
-![github gif](https://github.com/himanshucgithub/himanshucgithub/assets/112814361/32ba75ec-9be8-44f3-88b3-930aa4c31455)
+<img align="right" alt="Coding" width="400" src="https://github.com/himanshucgithub/himanshucgithub/assets/112814361/32ba75ec-9be8-44f3-88b3-930aa4c31455">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshucgithub&label=Profile%20views&color=0e75b6&style=flat" alt=" himanshucgithub " /> </p>
 
