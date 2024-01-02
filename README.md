@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Yuvraj Chaudhari</h1>
-<h2 align="center">M.Sc Industrial Mathematics with Computer Applications (IMCA) </h2>
+<h3 align="center">M.Sc Industrial Mathematics with Computer Applications (IMCA) </h3>
 <h3 align="center">Passionate about Data </h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/himanshucgithub/himanshucgithub/assets/112814361/32ba75ec-9be8-44f3-88b3-930aa4c31455">
