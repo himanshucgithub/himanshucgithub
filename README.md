@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at : **[Portfolio](https://github.com/himanshucgithub/Data-Analysis-Portfolio.git)**
 
-- 📄 Know about my work : **[Resume](https://github.com/himanshucgithub/Files/blob/main/Resume/Himanshu%20Chaudhari%20Data%20Analytics.pdf)**
+- 📄 Know about my work : **[Resume](https://drive.google.com/file/d/1-MoqdaDRrava9aDoXc-qJdW1YqjUju2D/view?usp=sharing)**
 
 - 📫 How to reach me : **himanshucan10@gmail.com**
 
